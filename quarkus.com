@@ -1,9 +1,10 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-   <title>MY WEBSITE</title>
+    <meta charset="UTF-8">
+    <title>Welcome to Test App</title>
 </head>
 <body>
-<h1>HELLO FROM US</h1>
+<h1> Welcome </h1>
 </body>
 </html>
